@@ -1,0 +1,31 @@
+apiVersion: v1
+entries:
+  ibm-connect-direct:
+  - apiVersion: v1
+    appVersion: 6.0.0
+    created: "2020-04-28T02:17:50.362819614-05:00"
+    description: A Helm chart to deploy IBM Connect Direct Unix on a containerized
+      platform
+    digest: 231cfd952d45647ba59c0a398ef6c4e4d5dac52a819a7093a1a2fdc8d8b24835
+    home: https://www.ibm.com/support/knowledgecenter/en/SS4PJT_6.0.0/cd_unix/cdunix_getstart/CDU_CD_UNIX_File_Transfer_.html
+    icon: https://github.ibm.com/IBMPrivateCloud/ibm-connect-direct/blob/master/stable/ibm-connect-direct/logo/about_logo.png
+    keywords:
+    - C:D
+    - cdu
+    - mft
+    - connect direct
+    - amd64
+    - DevOps
+    - Commercial
+    - Limited
+    - IKS
+    - RHOCP
+    kubeVersion: '>=1.11'
+    maintainers:
+    - name: IBM
+    name: ibm-connect-direct
+    tillerVersion: '>=2.12'
+    urls:
+    - https://gautam4469.github.io/cd-repo/ibm-connect-direct-1.0.1.tgz
+    version: 1.0.1
+generated: "2020-04-28T02:17:50.358411396-05:00"
